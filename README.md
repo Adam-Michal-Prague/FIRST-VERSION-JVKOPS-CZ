@@ -1,3 +1,3 @@
 # FIRST-VERSION-JVKOPS-CZ
 
-![alt text](screenshots/screencaptureFIRSTVERSIONJVKOPSCZ.png "screencaptureFIRSTVERSIONJVKOPSCZ")
+![alt text](screenshots/screencaptureFIRSTVERSIONJVKOPSCZ2.png "screencaptureFIRSTVERSIONJVKOPSCZ")
